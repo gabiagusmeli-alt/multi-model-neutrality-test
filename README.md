@@ -2,7 +2,6 @@
 ### Evaluación de la Objetividad y Sesgo de Confirmación en Modelos de Lenguaje
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-research_preview-orange)
 
 ## 📖 Descripción
